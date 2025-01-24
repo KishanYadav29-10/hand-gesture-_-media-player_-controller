@@ -1,0 +1,4 @@
+mediapipe
+pyautogui
+pycaw
+numpy
